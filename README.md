@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Shahim
 #### I'm Frontend Developer
 
+### Skills:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+### Contact me:
+
+[https://t.me/shahimsafin] ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <!--
 **SafinSI/SafinSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
